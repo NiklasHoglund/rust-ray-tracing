@@ -2,8 +2,8 @@
     cd src
     cargo run main.rs
 
-## To see created image in ppm format
+### To see created image in ppm format do 
     cargo run main.rs > imageName.ppm
-# OR 
+### or 
     rustc main.rs  
     main.exe > imageName.ppm
